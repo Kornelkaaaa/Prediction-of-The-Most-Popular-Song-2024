@@ -5,7 +5,7 @@ This repository contains the Jupyter Notebook `HW_3.ipynb`, developed as part of
 ## 📂 Contents
 
 - `HW_3.ipynb` – Main Jupyter Notebook with analysis and results.
-- (Optional) Data files – If any datasets are required, include them or add instructions to download.
+- `Most Streamed Spotify Songs 2024.csv` –  Dataset used for analysis.
 
 ## 🧠 Topics Covered
 
