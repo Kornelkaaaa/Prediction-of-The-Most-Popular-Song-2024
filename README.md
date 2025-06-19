@@ -29,7 +29,7 @@ Or set up using conda:
 conda install pandas numpy matplotlib seaborn scipy jupyter
 ```
 
-##🚀 How to Run
+## 🚀 How to Run
 1. Clone this repository or download the notebook file.
 2. Launch Jupyter Notebook:
 ```bash
